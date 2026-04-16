@@ -1,0 +1,55 @@
+GenAIBLRANCUSR63
+
+icacls C:\Ollama /grant %GenAIBLRANCUSR63%:F /T
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+
+10.64.24.182:8000
+
+
+…or create a new repository on the command line
+echo "# hackathon" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:puneeth-raj/hackathon.git
+git push -u origin main
+
+
+
+Bangalore	Bangalore_5	789ea592-512f-478b-82b1-f04c340b47a0	sk-IcsRzj2nKHMWLx4axBJTiQ
+Bangalore	Bangalore_6	e4c26585-0360-4a65-af5e-f20a181414d6	sk-70NPsej1f4Mg8ZzBzo77sQ
+Bangalore	Bangalore_7	79a4687a-41a1-477a-b224-f30d88e0eeee	sk-5IB7Uld0L9IDn3WlScw4kg
+Bangalore	Bangalore_8	652a73b6-db1d-4043-a6ac-fcb8eedf9472	sk-Mup6AexaipQWyhhbr_ARZg
+Bangalore	Bangalore_9	9ad04eb1-075d-418b-8cb1-b387f14b9bf8	sk-RPYdmsVTO-xLRaYJz4H8kA
+Bangalore	Bangalore_10	05a967f5-85d1-4f85-bc36-771dda53fe2b	sk-DHIa7pyClJ2QbaNzpkHSHw
+Bangalore	Bangalore_11	9f46e2f8-ab81-4cd5-b395-12ed0b18a3e3	sk-5VYHQEhfk38CyHa2m387Og
+Bangalore	Bangalore_12	9aa5602c-16b0-48c6-a210-205f84a1c37f	sk-HfV1viLrMkfkix80SjJWzA
+Bangalore	Bangalore_13	7f4971d2-74f0-4fd2-af04-235077954520	sk-f86P8es9uGdSMYl2aWt-Lw
+Bangalore	Bangalore_14	b2147b79-080e-41d3-a4fe-d01d9fdc01a1	sk-HH8RjoHK-O72WrLLhJXSKg
+Bangalore	Bangalore_15	4cd2db22-74f3-4cc5-9712-f1b7f8e1e6f2	sk-Z0fIIOdrBoYnxwwcVe4jaQ
+Bangalore	Bangalore_16	c3196fbf-aabb-4d6d-82fb-e4b8dc513d77	sk-PyjOG-9pjwLJhWgx9pZ32w
+Bangalore	Bangalore_17	7df79922-aa77-48ca-81f7-ae60a09f8659	sk-CvkHYTwpsbXsCUExo_Mhsg
+Bangalore	Bangalore_18	e5a32724-d7bb-431d-93bf-165b4121c57f	sk-9nM5op85Yc3s99Fhskij5w
+Bangalore	Bangalore_19	c2725f1d-8ce3-469b-84e5-81dcd3c19aab	sk-Ercd4-XCk6oN-WkU4stz9Q
+Bangalore	Bangalore_20	fd7919ac-d430-4748-b9c1-90c41c262aed	sk-R7lLhum5C0PBDSd51mUyRw
+Bangalore	Bangalore_21	312f51eb-406c-4127-b9e2-c40f8968c103	sk-n8-G4TMWOwBvTEPjuFUKHw
+Bangalore	Bangalore_22	62ffc310-52ee-4df6-98ad-53081bcaaf4e	sk-BtUismdQfcVGwI05W5hN7g
+Bangalore	Bangalore_23	8c8884b6-9590-48df-9edd-319a8fd3376e	sk-qfPp7E0Cw_mjy0BmcTP3Ew
+Bangalore	Bangalore_24	4f2d40a3-8780-45cb-8093-bed37bfb98d5	sk-Yro3Ej6Zr0cnjfcOJc7cPg
+Bangalore	Bangalore_25	1266f39c-e115-40cd-b3fa-834adc7c6e5b	sk-vW_AOZkc3GwVOkzzn06KzQ
+Bangalore	Bangalore_26	3fa3e03d-fab7-46e5-b6c6-c0d9e24947e8	sk-hhfAmFESi5Au9HVcb4lN3A
+Bangalore	Bangalore_27	446772a9-d4c1-44d5-95e0-859eb8408483	sk-XpDmUBiG44jnQHe28os6Ig
+Bangalore	Bangalore_28	3e111dc8-532e-4dc5-afcb-00d47afd2176	sk-zU2dfpNmjvLuR3iAaatK0Q
+Bangalore	Bangalore_29	553488b3-8700-4414-a65e-398b39b6bedf	sk-T9_9Iie57qWmXdX7gplE7Q
+Bangalore	Bangalore_30	116b9d5b-67f9-449d-99c2-277cf598bd4e	sk-NwohEmmEnua80N9M4HqjGw
+Bangalore	Bangalore_31	c753f09c-a719-40e4-baa2-c728c46cf67c	sk-3PvsQpAWR6RNpGdZcBN6mQ
+Bangalore	Bangalore_32	7bfc36b7-addd-4ce0-96c9-8f2d0ebba40e	sk-9ykHZeg3PGRYlVm-wnRYTg
+Bangalore	Bangalore_33	63a64280-3f2a-4ce5-86bc-514a451fc3b1	sk-mN7zeU3WPrDa61Ss3njV0A
+Bangalore	Bangalore_34	889070cd-a26e-444c-8db6-b4e59cbfec70	sk-gJHZ0CsULRt-fKqtZRZoFw
+Bangalore	Bangalore_35	a3b7c472-25b6-4be0-b081-84a34af09a01	sk-3kLx4T0QgPcUYzszEyUe8g
+Bangalore	Bangalore_36	069ec732-e277-41e3-afd7-88f8edba1d42	sk-hzMpKAlCodLJQfS2llhOtg
+Bangalore	Bangalore_37	27382e9a-309a-4701-bda7-e6e64a4df7f5	sk-8E5yVJGfqb0gyWRyIpH23A
+Bangalore	Bangalore_38	b37ea4c2-7703-4abf-9633-b52d9427f1a8	sk-X7fxLAqPademBYUaLJwT4A
